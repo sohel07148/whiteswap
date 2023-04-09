@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container-fluid{
+    background: #000;
+    
+}
+.launch {
+  background: hsl(45.27deg 100% 67.25%);
+  border: none;
+  padding: 10px 5px 10px 20px;
+  border-radius: 50px;
+  width: 11rem;
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+}
+
+.launch ion-icon {
+  margin-left: 10px;
+  font-size: 35px;
+  font-weight: 600;
+  vertical-align: middle;
+  border-radius: 50%;
+}
